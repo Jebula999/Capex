@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Mallandain;Nick;;;
+FN:Nick Mallandain
+ORG:Capex Projects
+ADR;TYPE=WORK:Unit 10 Boskruin Business Park, Bosbok Rd, Randpark Ridge, Boskruin, 2168
+TITLE:Architect
+TEL;TYPE=CELL:+27832970771
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:nick@capex.co.za
+URL;TYPE=Digital Business Card:
+URL:https://capex.co.za/
+URL;TYPE=Website:https://capex.co.za/
+URL;TYPE=LinkedIn:https://linkedin.com/in/mallandain/
+URL;TYPE=Instagram:https://instagram.com/capexprojects
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100276365
+END:VCARD
